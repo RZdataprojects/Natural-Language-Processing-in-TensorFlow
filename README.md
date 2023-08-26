@@ -1,2 +1,2 @@
-# Natural-Language-Processing-in-TensorFlow
-Natural Language Processing in TensorFlow - Coursera
+# DeepLearning.ai - Natural-Language-Processing-in-TensorFlow
+DeepLearning.ai's course - Natural Language Processing in TensorFlow - Coursera
